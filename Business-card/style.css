@@ -1,0 +1,19 @@
+section.card-container {
+    display: flex;
+    place-content: center;
+    gap: 20px;
+    border: 1px solid blue;
+    background: aqua;
+    box-shadow: 5px 5px 5px cornflowerblue;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+img {
+    height: 200px;
+    padding: 10px;
+}
+.inf-profile {
+    margin-top: 30px;
+    text-align: center;
+}
